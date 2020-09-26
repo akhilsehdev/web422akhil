@@ -1,0 +1,21 @@
+{
+  "name": "web422",
+  "version": "1.0.0",
+  "description": "this is assignment for web422",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "akhil sehdev",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "heroku": "^7.43.2",
+    "mongoose": "^5.10.7",
+    "parser": "^0.1.4"
+  }
+}
